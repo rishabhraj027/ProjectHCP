@@ -1,2 +1,2 @@
 # ProjectHCP
-shinu ka proj
+HCP structure project
